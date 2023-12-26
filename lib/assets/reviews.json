@@ -3,12 +3,14 @@
 	[
   	{
     	"userId": "1",
+	"username": "Arin",
     	"movieId": "6",
     	"subject": "Great Animation",
    	"detail": "Enjoyed the storyline and animation. A must-watch for all ages."
   	},
   	{
-   	 "userId": "1",
+   	"userId": "1",
+	"username": "Arin",
     	"movieId": "6",
     	"subject": "Outstanding Voice Cast",
     	"detail": "The voice cast did an amazing job, adding depth to the characters."
